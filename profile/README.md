@@ -1,4 +1,4 @@
 ## Center for 21st Century Universities (C21U)
-### College of Lifetime Learning - Georgia Institute of Technology
-
 Established in 2010, the Center for 21st Century Universities (C21U) is Georgia Tech's living laboratory for fundamental educational change. Serving as a research arm of the College of Lifetime Learning, C21U's technologists and researchers support the Institute's innovation mission by pushing the boundaries of what is already done in higher education to bring learners the most impactful resources and technologies. The Center serves as a nexus of collaboration and communication and a catalyst for innovation, bringing together an array of internal and external partners across various disciplines. Through a sustained and systemic program of research, experimentation, design, prototyping, and implementation, C21U serves the Institute in thought leadership, educational technology design, community building, and support of Georgia Tech stakeholders of all ages.
+
+[C21U](https://c21u.gatech.edu/) sits withijn the [College of Lifetime Learning](https://cll.gatech.edu/) at the [Georgia Institute of Technology](https://www.gatech.edu/) in Atlanta, Georgia.
